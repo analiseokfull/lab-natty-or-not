@@ -1,12 +1,7 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas - Desafio DIO
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
@@ -20,32 +15,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Reportagem da CN Desmatamento e Extinção um alerta urgente ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo tem apoximidamente 1 minuto mostra a reporter Ellie da CN emissora falando a respeito da situação do desmatamento das florestas e extinção de animais e pedindo atenção para que todos ajudem a salvar a natureza  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas, Canva, Chatgpt, D-ID, Capcut, Artguru, 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi criado com roteiro do chatgpt e as imagens e videos realistas
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+Interessante e desafiador, ao mesmo tempo gostoso de trabalhar e empolgante.
+O difícil é sempre usar o limite diário gratuíto.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
